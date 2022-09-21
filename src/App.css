@@ -1,0 +1,22 @@
+.container, .back-button-container {
+  max-width: 500px;
+  margin: 30px auto;
+  overflow: auto;
+  min-height: 30px;
+  border: 2px solid chartreuse;
+  padding: 30px;
+  border-radius: 10px;
+  
+  
+}
+
+
+  .details-text{
+    margin-top: 5px;
+    color: grey;
+  }
+
+  .details-title{
+    margin-top: 5px;
+    color: chartreuse;
+  }
